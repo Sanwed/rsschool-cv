@@ -17,9 +17,9 @@
 
 > ## My Personal Projects
 > There are few links to my projects located on GitHub Pages:
-> - [MASA](sanwed.github.io/Masa/build) - website about project MASA, here I use HTML responsive markup, SASS, JS, JS APIs(Slider, )
-> - [Aim Game](sanwed.github.io/Aim-game)
-> - [Lifetour](sanwed.github.io/Lifetour/build)
+> - [MASA](sanwed.github.io/Masa/build) - website about project MASA, here I use HTML responsive markup, SASS, JS, JS APIs(Swiper, )
+> - [Aim Game](sanwed.github.io/Aim-game) - JS simple game, where you need to click on the circles on time, here many options with leaderboard of 10 best players
+> - [Lifetour](sanwed.github.io/Lifetour/build) - website about traveling, here I use HTML responsive markup, SASS, JS, JS APIs(Swiper)
 
 > ## Languages
 > My main language is Russian, but I often facing with English, so I try to learn some lessons as much as I can. My plan is to work abroad, so English never leaves me
